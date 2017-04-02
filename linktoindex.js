@@ -1,3 +1,9 @@
+// Script for imacow
+// imason10.github.io/imacow
+// Idea from asdfmovie10
+
+console.log("Accessed js sucessfully prot1")
+
 function meow() {
   window.alert("IM A COW");
 }
