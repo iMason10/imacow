@@ -41,3 +41,7 @@ function gotocow() {
   console.log("HOW DARE YOU LEAVE ME");
   console.log("also reached cow.html");
 }
+
+function cookiesjoke() {
+  window.alert("I dont feel like it");
+}
