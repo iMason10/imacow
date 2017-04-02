@@ -2,14 +2,18 @@
 
 console.log("Reached alljsforcow.js")
 console.log("Why am i logging this")
+console.log("WE DONT TALK ANYMORE")
 
 document.cookie = "cow=I LOVE COWS";
-document.cookie = "hatecows=HOW DARE YOU";
 document.cookie = "meytchannel=youtube.com/masonfrykman"
 document.cookie = "blank=Last time I checked its not";
 document.cookie = "hogwarts=Warts on hogs";
 document.cookie = "repo_made=April 1, 2017 11:00-11:45 PM";
 document.cookie = "somany=SO MANY COOKIES MUST EAT ALL";
+document.cookie = "SSID=Not Implemented, never Will";
+document.cookie = "OMG SO COOL=Nah";
+document.cookie = "BCE=Before Common Era";
+document.cookie = "2017=Yes; expires=Sun, 31 Dec 2017 11:59:59 CST, path=/";
 
 function deletecookies() {
 document.cookie = "cow=I LOVE COWS; expires=Thu, 18 Dec 2013 12:00:00 UTC";
