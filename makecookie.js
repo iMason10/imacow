@@ -6,3 +6,4 @@ function cowcookies() {
   document.cookie = "Youtube Designer Layout=eiw9pnZ2Mj8";
   document.cookie = "Genie=COW GENIE ACTIVATE!";
   console.log("cowcookies Baked Cookies Sucessfully")
+}
