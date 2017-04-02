@@ -3,7 +3,7 @@
   "short_name": "imacow",
   "theme_color": "#444444",
   "background_color": "#444444",
-  "display": "browser",
+  "display": "fullscreen",
   "orientation": "landscape",
   "Scope": "/",
   "start_url": "/",
