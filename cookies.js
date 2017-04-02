@@ -7,6 +7,7 @@ document.cookie = "my_fav_cookie=all execept raisin";
 
 console.log("Reached cookies.js")
 
+// Nommey Canned Spam
 function cookiespam() {
 console.log("SPAM")
 console.log("SPAM")
