@@ -3,6 +3,7 @@
 // Idea from asdfmovie10
 
 console.log("Accessed js sucessfully prot2");
+console.log("More in the Log for Dev Tests Button")
 
 function meow() {
   console.log("reached meow");
