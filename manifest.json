@@ -1,0 +1,12 @@
+{
+  "name": "Im A Cow YEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+  "short_name": "mecow",
+  "theme_color": "#444444",
+  "background_color": "#444444",
+  "display": "browser",
+  "orientation": "landscape",
+  "Scope": "/",
+  "start_url": "/",
+  "icons": null,
+  "splash_pages": null
+}
