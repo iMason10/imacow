@@ -15,4 +15,8 @@ function clicktolog() {
   console.log("FOR DEVELOPMENT PURPOSES ONLY");
   console.log("from ASDFMovie 10 on YouTube");
   console.log("By TomSka");
+  console.log("If your reading this, you're awesome and dont");
+  console.log("dont yell at me for forgetting to use commas");
+  console.log("and apostraphes");
+  console.log("Thx, Mason (The Creator)");
 }
