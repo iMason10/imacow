@@ -9,10 +9,10 @@ function meow() {
   window.alert("IM A COW");
 }
 
-function meowtxt() {
-  console.log("reached meowtxt")
-  var para = document.createElement("P");
-  var t = document.createTextNode("This is a paragraph");
-  para.appendChild(t);
-  document.body.appendChild(para); 
+function clicktolog() {
+  console.log("Script version 1.0");
+  console.log("Developer: Mason Frykman");
+  console.log("FOR DEVELOPMENT PURPOSES ONLY");
+  console.log("from ASDFMovie 10 on YouTube");
+  console.log("By TomSka");
 }
