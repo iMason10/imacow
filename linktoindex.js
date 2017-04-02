@@ -24,3 +24,8 @@ function clicktolog() {
   console.log("That was for me and my friend Jake for dev purposes")
   window.alert("Go look in the console (if you know what that is) in the browser")
 }
+
+function gotocow() {
+  console.log("HOW DARE YOU LEAVE ME");
+  console.log("also reached cow.html");
+}
