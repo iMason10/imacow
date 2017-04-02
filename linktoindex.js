@@ -9,8 +9,8 @@ function meow() {
 }
 
 function meowtxt() {
-  var meow = document.createElement("H1");
-  var spantxt = document.createTextNode("MEOW");
-  meow.appendChild(spantxt);
-  document.body.appendChild(meow);
+  var para = document.createElement("P");
+  var t = document.createTextNode("This is a paragraph");
+  para.appendChild(t);
+  document.body.appendChild(para); 
 }
