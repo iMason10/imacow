@@ -2,7 +2,7 @@
 // imason10.github.io/imacow
 // Idea from asdfmovie10
 
-console.log("Accessed js sucessfully prot1")
+console.log("Accessed js sucessfully prot2")
 
 function meow() {
   console.log("reached meow")
