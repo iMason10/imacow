@@ -44,4 +44,5 @@ function gotocow() {
 
 function cookiesjoke() {
   window.alert("I dont feel like it");
+  window.alert("yay")
 }
