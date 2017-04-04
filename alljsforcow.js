@@ -3,6 +3,8 @@
 console.log("Reached alljsforcow.js")
 console.log("Why am i logging this")
 console.log("WE DONT TALK ANYMORE")
+console.log("MEOW MEOW IM A COW!")
+console.log("BEEP BEEP IM A SHEEP!")
 
 document.cookie = "cow=I LOVE COWS";
 document.cookie = "meytchannel=youtube.com/masonfrykman"
