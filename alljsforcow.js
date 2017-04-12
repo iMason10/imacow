@@ -1,10 +1,7 @@
 // script for cow.html
 
-console.log("Reached alljsforcow.js")
-console.log("Why am i logging this")
-console.log("WE DONT TALK ANYMORE")
-console.log("MEOW MEOW IM A COW!")
-console.log("BEEP BEEP IM A SHEEP!")
+console.log("Reached alljsforcow.js");
+console.log("Why am i logging this");
 
 document.cookie = "cow=I LOVE COWS";
 document.cookie = "meytchannel=youtube.com/masonfrykman"
@@ -16,6 +13,9 @@ document.cookie = "SSID=Not Implemented, never Will";
 document.cookie = "OMG SO COOL=Nah";
 document.cookie = "BCE=Before Common Era";
 document.cookie = "2017=Yes; expires=Sun, 31 Dec 2017 11:59:59 CST, path=/";
+document.cookie = "Date Made=April 1 2017";
+document.cookie = "Was this made by a cow?=Encrypted: a6105c0a611b41b08f1209506350279e";
+document.cookie = "Surprise at telehack.com?=YES";
 
 function deletecookies() {
 document.cookie = "cow=I LOVE COWS; expires=Thu, 18 Dec 2013 12:00:00 UTC";
