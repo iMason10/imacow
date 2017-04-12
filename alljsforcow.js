@@ -1,7 +1,7 @@
 // script for cow.html
 
-console.log("Reached alljsforcow.js")
-console.log("Why am i logging this")
+console.log("Reached alljsforcow.js");
+console.log("Why am i logging this");
 
 document.cookie = "cow=I LOVE COWS";
 document.cookie = "meytchannel=youtube.com/masonfrykman"
