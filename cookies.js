@@ -2,7 +2,7 @@
 
 document.cookie = "beepbeep=IM A SHEEP";
 document.cookie = "meowmeow=IM A COW";
-document.cookie = "SSID=None Here";
+document.cookie = "SSID=None Here :D";
 document.cookie = "my_fav_cookie=all execept raisin";
 document.cookie = "github=This was made on github";
 document.cookie = "why=I made this for some funny stuff";
