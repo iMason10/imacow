@@ -16,6 +16,7 @@ document.cookie = "2017=Yes; expires=Sun, 31 Dec 2017 11:59:59 CST, path=/";
 document.cookie = "Date Made=April 1 2017";
 document.cookie = "Was this made by a cow?=Encrypted: a6105c0a611b41b08f1209506350279e";
 document.cookie = "Surprise at telehack.com?=YES";
+document.cookie = "ourm=mrou";
 
 function deletecookies() {
 document.cookie = "cow=I LOVE COWS; expires=Thu, 18 Dec 2013 12:00:00 UTC";
