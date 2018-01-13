@@ -15,6 +15,7 @@ console.log("Script version 1.0");
   console.log("Thx, Mason (The Creator)");
   console.log("If you clicked the Log me for dev tests")
   console.log("That was for me and my friend Jake for dev purposes")
+console.log("NYEH HEH HEH")
 
 function meow() {
   console.log("reached meow");
